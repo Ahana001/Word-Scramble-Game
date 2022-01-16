@@ -1,7 +1,8 @@
 # Word-Scramble-Game
  Requirements:\
 Fundamental JavaScript concepts\
-HTML and CSS knowledge\
+HTML and CSS knowledge
+
 
 Description\
 Great way to learn and practice JavaScript while building a fun interactive game.\
